@@ -1,0 +1,12 @@
+
+Access_switches :
+ Meeting_sw : 192.168.1.1
+
+Branch_Routers:
+ #Branch_Router : 10.10.9.1
+ #Branch_Voice_GW : 10.10.9.2
+
+Branch_Switches:
+ #branch_SW1 : 10.10.10.1
+ branch_SW2 : 10.10.10.2
+ 

@@ -1,0 +1,8 @@
+1. Add network devices to Network_Devices.yml file as shown in example. (Categories, hostname, ip address should be mentioned)
+	You can add '#' infront of hostname to comment(Command will not be pushed to commented devices)
+2. Add commands to commands.txt file; every command on new line
+3. Run SHH_to_device.exe 
+4. Output will be written in output_file.txt file.
+5. If program get error, error will be written in log.txt file.
+
+Source files should be in the same directory as .exe file

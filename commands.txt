@@ -1,0 +1,2 @@
+show run | inc dhcp
+show int status
